@@ -7,5 +7,6 @@ public class Test01 {
         System.out.println("Hello Git!");
         System.out.println("master change");
         System.out.println("hot-fix change");
+        System.out.println("随便改点东西吧");
     }
 }
