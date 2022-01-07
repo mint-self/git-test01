@@ -8,5 +8,6 @@ public class Test01 {
         System.out.println("master change");
         System.out.println("hot-fix change");
         System.out.println("随便改点东西吧");
+        System.out.println("远程库修改代码");
     }
 }
